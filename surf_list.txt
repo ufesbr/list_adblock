@@ -1,0 +1,6 @@
+[Adblock Plus 3.1]
+! Title: Surf filters
+! Filter list designed to fight circumvention ads in Adblock Plus
+
+###justroll
+###justroll-notify
